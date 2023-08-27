@@ -23,10 +23,7 @@ public class LogInForm {
         {
             enteredPassword = input;
         }
-        else
-        {
-            System.out.println("Something Went Wrong: input");
-        }
+
     }
 
 
